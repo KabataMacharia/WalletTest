@@ -1,5 +1,4 @@
 Django==1.10.5
-authy==2.1.4
 django-formtools==2.0
 django-otp==0.3.8
 django-phonenumber-field==0.7.2
